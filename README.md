@@ -1,2 +1,2 @@
-# Quantify2
+# Quantify
 SEG3125 Final Project
